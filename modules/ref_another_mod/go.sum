@@ -1,7 +1,13 @@
-github.com/alfredxiao/go-demo-module v1.0.0 h1:GH06yOzjzvbjm0S37bNIq55NDGIji2sfop8hnT61FEQ=
-github.com/alfredxiao/go-demo-module v1.0.0/go.mod h1:KZ2m6knkSq3JGE5N2Xgbc37bsBbRS0gcaotQQaPvCeg=
 github.com/alfredxiao/go-demo-module v1.0.1 h1:lxvkqKMRQeoIuZ4Ijpo/Pf2LFuuKSxG7iyp9bCM47nI=
 github.com/alfredxiao/go-demo-module v1.0.1/go.mod h1:KZ2m6knkSq3JGE5N2Xgbc37bsBbRS0gcaotQQaPvCeg=
+github.com/alfredxiao/go-demo-module v1.0.2 h1:lznwGK0XALVIHr+gQs+c4ykfnWRsfEwI/GTgiLv9jpY=
+github.com/alfredxiao/go-demo-module v1.0.2/go.mod h1:KZ2m6knkSq3JGE5N2Xgbc37bsBbRS0gcaotQQaPvCeg=
+github.com/alfredxiao/go-demo-module v1.1.0 h1:6KH2/RPT2YwhsVOw07TMeCHgYpD+/0KHOhSDAEHb1LU=
+github.com/alfredxiao/go-demo-module v1.1.0/go.mod h1:KZ2m6knkSq3JGE5N2Xgbc37bsBbRS0gcaotQQaPvCeg=
+github.com/alfredxiao/go-demo-module v1.1.1 h1:SrUaY0Deyd++3iVAFwlbUvNEwLTgR8Erdw3qc8dtz+4=
+github.com/alfredxiao/go-demo-module v1.1.1/go.mod h1:KZ2m6knkSq3JGE5N2Xgbc37bsBbRS0gcaotQQaPvCeg=
+github.com/alfredxiao/go-demo-module/v2 v2.0.0 h1:trC2ZvWe5wLuTaqoIIcqZtc1GjcVQcZ/PFvqFV24C0E=
+github.com/alfredxiao/go-demo-module/v2 v2.0.0/go.mod h1:SxMeogSuh5ikzo+U/Y3mSOk6jZef0uNR8cYWiAHTHNQ=
 github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550/go.mod h1:yigFU9vqHzYiE8UmvKecakEJjdnWj3jj499lnFckfCI=
