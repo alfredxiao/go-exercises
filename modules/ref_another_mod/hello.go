@@ -10,10 +10,10 @@ import (
 func main() {
 	// Get a greeting message and print it.
 
-	messageV1 := greetings.Hello("Gladys")
+	messageV1 := greetings.Hello("Oldman")
 	fmt.Println(messageV1)
 
-	messageV2, err := v2.Hello("Oldman")
+	messageV2, err := v2.Hello("Newman")
 	if err != nil {
 		fmt.Printf("ERROR: %v", err)
 		return
