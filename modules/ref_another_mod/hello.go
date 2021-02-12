@@ -9,7 +9,15 @@ import (
 
 func main() {
 	// Get a greeting message and print it.
-	fmt.Println(greetings.Hello("Oldman"))
-	message := v2.Hello("Gladys")
-	fmt.Println(message)
+
+	messageV1 := greetings.Hello("Gladys")
+	fmt.Println(messageV1)
+
+	messageV2, err := v2.Hello("Oldman")
+	if err != nil {
+		fmt.Printf("ERROR: %v", err)
+		return
+	}
+
+	fmt.Printf(messageV2)
 }
